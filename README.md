@@ -9,3 +9,5 @@ Submit simple project apps here by following these steps:
 * Add a detailed README.md file to the project.
 
 * Attach screenshots if necessary.
+
+* Update this README.md with project name and link.
