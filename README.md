@@ -11,3 +11,5 @@ Submit simple project apps here by following these steps:
 * Attach screenshots if necessary.
 
 * Update this README.md with project name and link.
+
+Ref link: https://github.com/GDSC-JSCOE/HacktoberFest-2022-RepoList
