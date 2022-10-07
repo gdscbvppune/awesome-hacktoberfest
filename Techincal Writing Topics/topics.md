@@ -56,6 +56,12 @@
 - [ ] Introduction to VueJS
 - [ ] Vue Components
 - [ ] What are plugins?
+- [ ] Position states in CSS
+- [ ] Semantic tags
+- [ ] Pseudo classes
+- [ ] Pseudo elements
+- [ ] CSS Box Model
+
 
 ### Cyber Security
 - [ ] What is information security?
